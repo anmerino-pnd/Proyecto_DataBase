@@ -278,3 +278,4 @@ begin
     GROUP BY CLAVE_ENTIDAD;
     RETURN id_ent ;
 end//
+
